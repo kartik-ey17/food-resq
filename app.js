@@ -12,10 +12,10 @@ const seedState = {
   currentUser: null,
   users: {
     donors: [
-      { id: "donor-greenleaf", name: "GreenLeaf Kitchen", location: "MP Nagar, Bhopal", mealsRescued: 127, successfulDonations: 8, baseImpact: 94 },
-      { id: "donor-campus", name: "Campus Canteen", location: "MANIT Campus, Bhopal", mealsRescued: 104, successfulDonations: 7, baseImpact: 88 },
-      { id: "donor-event", name: "Event Pantry", location: "New Market, Bhopal", mealsRescued: 86, successfulDonations: 5, baseImpact: 74 },
-      { id: "donor-freshbite", name: "FreshBite Restaurant", location: "Arera Colony, Bhopal", mealsRescued: 72, successfulDonations: 4, baseImpact: 69 }
+      { id: "donor-greenleaf", name: "Mayuri", location: "VIT, Bhopal", mealsRescued: 69, successfulDonations: 8, baseImpact: 94 },
+      { id: "donor-campus", name: "AB Dakshin", location: "VIT , Bhopal", mealsRescued: 67, successfulDonations: 7, baseImpact: 88 },
+      { id: "donor-event", name: "Bistro", location: "VIT , Bhopal", mealsRescued: 55, successfulDonations: 5, baseImpact: 74 },
+      { id: "donor-freshbite", name: "Underbelly", location: "VIT , Bhopal", mealsRescued: 50, successfulDonations: 4, baseImpact: 69 }
     ],
     ngos: [
       { id: "ngo-hope", name: "Hope Foundation", location: "Shyamla Hills, Bhopal" },
@@ -23,22 +23,22 @@ const seedState = {
       { id: "ngo-helping", name: "Helping Hands", location: "Kolar Road, Bhopal" }
     ],
     volunteers: [
-      { id: "vol-arjun", name: "Arjun", deliveriesCompleted: 4, mealsDelivered: 96, basePoints: 74 },
-      { id: "vol-priya", name: "Priya", deliveriesCompleted: 3, mealsDelivered: 70, basePoints: 59 },
-      { id: "vol-rahul", name: "Rahul", deliveriesCompleted: 2, mealsDelivered: 44, basePoints: 41 }
+      { id: "vol-manas solanki", name: "Manas", deliveriesCompleted: 4, mealsDelivered: 67, basePoints: 74 },
+      { id: "vol-shriram sharma", name: "Shriram", deliveriesCompleted: 3, mealsDelivered: 69, basePoints: 59 },
+      { id: "vol-harshil balwani", name: "Harshil", deliveriesCompleted: 0, mealsDelivered: 0, basePoints: -2 }
     ]
   },
   meals: [
     {
       id: "meal-1",
       donorId: "donor-greenleaf",
-      donorName: "GreenLeaf Kitchen",
+      donorName: "Mayuri",
       name: "Veg rice bowls",
       type: "Vegetarian",
       quantity: 40,
       preparedAt: "5:45 PM",
       deadline: addMinutes(95),
-      location: "MP Nagar, Bhopal",
+      location: "VIT , Bhopal",
       contribution: 0,
       deliveryCost: 50,
       sponsorDelivery: false,
@@ -49,13 +49,13 @@ const seedState = {
     {
       id: "meal-2",
       donorId: "donor-campus",
-      donorName: "Campus Canteen",
+      donorName: "AB Dakshin",
       name: "Dal + chapati",
       type: "Vegetarian",
       quantity: 55,
       preparedAt: "6:10 PM",
       deadline: addMinutes(50),
-      location: "MANIT Campus, Bhopal",
+      location: "VIT , Bhopal",
       contribution: 0,
       deliveryCost: 40,
       sponsorDelivery: true,
@@ -66,13 +66,13 @@ const seedState = {
     {
       id: "meal-3",
       donorId: "donor-event",
-      donorName: "Event Pantry",
+      donorName: "Bistro",
       name: "Paneer pulao",
       type: "Vegetarian",
       quantity: 28,
       preparedAt: "6:25 PM",
       deadline: addMinutes(180),
-      location: "New Market, Bhopal",
+      location: "VIT , Bhopal",
       contribution: 100,
       deliveryCost: 60,
       sponsorDelivery: false,
@@ -83,7 +83,7 @@ const seedState = {
     {
       id: "meal-4",
       donorId: "donor-freshbite",
-      donorName: "FreshBite Restaurant",
+      donorName: "Underbelly",
       name: "Mixed vegetable curry",
       type: "Vegetarian",
       quantity: 32,
@@ -104,7 +104,7 @@ const seedState = {
       mealId: "meal-seed-verified",
       donorId: "donor-campus",
       ngoId: "ngo-annadaan",
-      volunteerId: "vol-priya",
+      volunteerId: "vol-shriram sharma",
       status: "VERIFIED",
       quantity: 22,
       createdAt: new Date(demoNow.getTime() - 86400000).toISOString(),
