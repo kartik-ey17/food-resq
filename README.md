@@ -1,5 +1,4 @@
-# FOODREAQ
-
+# FOODREAQ: Redistributing Surplus Food with Needy ones
 ## Problem Statement
 
 Restaurants, hostels, households, events and small businesses may have safe surplus food that remains unused, while nearby organizations or individuals may need food. The lack of timely information and coordination can result in unnecessary food waste. 
