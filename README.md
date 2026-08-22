@@ -1,4 +1,4 @@
-# FOODRESQ: Redistributing Surplus Food with Needy Ones
+# FoodResQ: Redistributing Surplus Food with Needy Ones
 ## Project Title
 
 This is a 'for community' technology platform which is designed to reduce food wastage by connecting restaurants, hostels, households, events and small businesses having surplus food with verified NGOs and also with nearby recipients.
@@ -8,9 +8,9 @@ Restaurants, hostels, households, events and small businesses may have safe surp
 
 ## About this Project
 
-FOODRESQ is a platform which makes the wastage in food negligible. We invite restaurants which over-produce their required food and NGOs which provide the food to the needy ones, and connect them using our platform.
+FoodResQ is a platform which makes the wastage in food negligible. We invite restaurants which over-produce their required food and NGOs which provide the food to the needy ones, and connect them using our platform.
 
-FOODRESQ provide a digital platform for:
+FoodResQ provide a digital platform for:
 
 - Surplus Food Reporting
 - Nearby Food Discovery
@@ -21,7 +21,7 @@ Food donors report their surplus food by entering food type, quantity, location 
 
 ## How it works
 
-The working of FOODRESQ can be described as step-by-step processes:
+The working of FoodResQ can be described as step-by-step processes:
 
 **1. NGO Registration**
 * An NGO have to create their account by providing the needed information. The submitted NGO have to go through a verification.
@@ -37,7 +37,7 @@ The working of FOODRESQ can be described as step-by-step processes:
 
 ## Main Features
 
-The main features of our FOODRESQ Platform includes the following items:
+The main features of our FoodResQ Platform includes the following items:
 
 - Surplus Food Reporting 
 - Nearby Availability
@@ -47,7 +47,7 @@ The main features of our FOODRESQ Platform includes the following items:
 
 ## Technology Used
 
-FOODRESQ Platform is implemented using the following technologies:
+FoodResQ Platform is implemented using the following technologies:
 
 - JavaScript
 - HTML
@@ -55,7 +55,7 @@ FOODRESQ Platform is implemented using the following technologies:
 
 ## Future Improvements
 
-The current FOODRESQ Platform can be expanded with several additional features:
+The current FoodResQ Platform can be expanded with several additional features:
 
 **Real-Time Notifications**
 
@@ -90,7 +90,7 @@ We can record and provide detailed statistics of:
 
 ## Team Details
 
-The FOODRESQ Platform is designed and developed to serve community.
+The FoodResQ Platform is designed and developed to serve community.
 
 ### The following is a list of team members:
 
@@ -103,7 +103,7 @@ The FOODRESQ Platform is designed and developed to serve community.
 
 ## Our Vision
 
-We have designed FOODRESQ Platform in order to create a **simple bridge** between surplus food and people who need it.
+We have designed FoodResQ Platform in order to create a **simple bridge** between surplus food and people who need it.
 
 Instead of wasting **safe surplus food**, we want to make it easier to **Report, Match and Redristibute** and feed the needy ones.
 
