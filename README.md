@@ -86,18 +86,16 @@ The FOODRESQ Platform is designed and developed to serve community.
 
 ### The following is a list of team members:
 
-
-**Name**         **Registration Number**
+| **Name** | **Registration Number** |
 |---|---|
-|Kartikey Srivastava| 25BAI11235|
-|Utkarsh| 25BAI11231|
-|Dhruv Shrivastava| 25BAI11236|
-|Atharva Kulkarni| 25BAI10584|
+| Kartikey Srivastava | 25BAI11235 |
+| Utkarsh | 25BAI11231 |
+| Dhruv Shrivastava | 25BAI11236 |
+| Atharva Kulkarni | 25BAI10584 |
 
 ## Our Vision
 
-We have designed FOODRESQ Platform in order to create a simple bridge between surplus food and people who needs it.
-
+We have designed FOODRESQ Platform in order to create a simple bridge between surplus food and people who need it.
 
 
 
