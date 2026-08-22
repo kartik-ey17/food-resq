@@ -39,5 +39,20 @@ The main features of our FOODRESQ Platform includes the following items:
 - NGO Verification
 - Login Security
 
+## Technology Used
+
+FOODRESQ Platform is implemented using the following technologies:
+
+- JavaScript
+- HTML
+- CSS
+
+## Future Improvements
+
+The current FOODRESQ Platform can be expanded with several additional features:
+
+- **Real-Time Notifications**
+*
+
 
 
