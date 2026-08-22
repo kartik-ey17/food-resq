@@ -6,6 +6,6 @@ Restaurants, hostels, households, events and small businesses may have safe surp
 
 ## About this Project
 
-FoodReaq is an platform which makes the wastage in food negotiable. we invite restaurants who over produce there required food and NGOs who provide the food to the needy and connect them using our platform.
+FOODREAQ is an platform which makes the wastage in food negotiable. we invite restaurants who over produce there required food and NGOs who provide the food to the needy and connect them using our platform.
 
 ## How it works
