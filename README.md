@@ -1,4 +1,4 @@
-# FOODREAQ: Redistributing Surplus Food with Needy Ones
+# FOODRESQ: Redistributing Surplus Food with Needy Ones
 ## Project Title
 
 This is a 'for community' technology platform which is designed to reduce food wastage by connecting restaurants, hostels, households, events and small businesses having surplus food with verified NGOs and also with nearby recipients.
@@ -8,9 +8,9 @@ Restaurants, hostels, households, events and small businesses may have safe surp
 
 ## About this Project
 
-FOODREAQ is a platform which makes the wastage in food negligible. We invite restaurants which over-produce their required food and NGOs which provide the food to the needy ones, and connect them using our platform.
+FOODRESQ is a platform which makes the wastage in food negligible. We invite restaurants which over-produce their required food and NGOs which provide the food to the needy ones, and connect them using our platform.
 
-FOODREAQ provide a digital platform for:
+FOODRESQ provide a digital platform for:
 
 - Surplus Food Reporting
 - Nearby Food Discovery
