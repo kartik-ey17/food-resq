@@ -174,7 +174,7 @@ function shell(content, title = "") {
         ${message ? `<div class="toast" role="status">${message}</div>` : ""}
         ${content}
       </main>
-      <footer class="footer">FoodResQ demo MVP | Surplus-food rescue and last-mile coordination</footer>
+      <footer class="footer">FoodResQ </footer>
     </div>
   `;
 
@@ -193,9 +193,9 @@ function renderHome() {
       <p>Connect surplus food with organizations that can put it to use.</p>
     </section>
     <section class="home-grid" aria-label="Choose a role">
-      ${roleCard("donor", "Food Donor", "Restaurants, hostels & households", "Enter as Donor", "FD")}
-      ${roleCard("ngo", "NGO / Recipient", "Find surplus food nearby", "Enter as NGO", "NGO")}
-      ${roleCard("volunteer", "Volunteer", "Deliver food and earn community points", "Enter as Volunteer", "VOL")}
+      ${roleCard("donor", "Food Donor", "Restaurants, hostels & households", "Enter as Donor", "images/donor.png")}
+      ${roleCard("ngo", "NGO / Recipient", "Find surplus food nearby", "Enter as NGO", "images/ngo.png")}
+      ${roleCard("volunteer", "Volunteer", "Deliver food and earn community points", "Enter as Volunteer", "images/volunteer.png")}
     </section>
     <section class="leader-preview" aria-label="Leaderboard preview">
       <div class="section-header">
@@ -221,10 +221,12 @@ function renderHome() {
   });
 }
 
-function roleCard(role, heading, copy, button, label) {
+function roleCard(role, heading, copy, button, image) {
   return `
     <article class="role-card">
-      <div class="role-art" aria-hidden="true"><span class="art-label">${label}</span></div>
+      <div class="role-art">
+        <img src="${image}" alt="${heading}">
+      </div>
       <h2>${heading}</h2>
       <p>${copy}</p>
       <div class="form-actions">

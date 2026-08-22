@@ -218,14 +218,20 @@ button {
 }
 
 .role-art {
-  height: 130px;
+  height: 150px;
   border-radius: 6px;
-  display: grid;
-  place-items: center;
-  color: var(--green-dark);
-  background:
-    linear-gradient(135deg, rgba(31, 143, 77, .16), rgba(240, 138, 36, .14)),
-    #edf7ed;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  overflow: hidden;
+  background-color: rgb(218, 243, 181);
+}
+
+.role-art img {
+  width: 100%;
+  height: 100%;
+  object-fit: contain;
+  display: block;
 }
 
 .art-label {
@@ -352,7 +358,7 @@ button {
   margin: -16px -16px 14px;
   display: grid;
   place-items: center;
-  background: linear-gradient(135deg, #e2f3e6, #fff3dd);
+  background-color: rgb(218, 243, 181) ;
   font-size: 42px;
 }
 
