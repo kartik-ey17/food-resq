@@ -29,6 +29,12 @@ The working of FOODRESQ can be described as step-by-step processes:
 **2. Surplus Food Reporting**
 * A food donor have to report available surplus food by entering information like food type, quantity, food category and location.
 
+**3. Nearby Food Discovery**
+* The splatform displays available surplus food to **registered** nearby NGOs. Their listings can be prioritised according to Distance, Quantity and Food Compatibility.
+
+**4. Food Claiming**
+* A registered NGO have to claim an available food listing. Then, the claimed food is picked-up.
+
 ## Main Features
 
 The main features of our FOODRESQ Platform includes the following items:
