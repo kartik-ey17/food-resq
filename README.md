@@ -44,6 +44,8 @@ The main features of our FoodResQ Platform includes the following items:
 - NGO Registration
 - NGO Verification
 - Login Security
+- Monthly Leaderboard Showings the Top Donors and Top Volunteer
+- The Donors and Volunteers and ranked mainly on the Basis of 	Impact Score and Community Points
 
 ## Technology Used
 
