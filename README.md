@@ -15,6 +15,15 @@ FOODRESQ provide a digital platform for:
 - Surplus Food Reporting
 - Nearby Food Discovery
 - NGO Registration and Verification
-- Pick-up Coordination 
+- Pick-up Coordination
+
+Food donors report their surplus food by entering food type, quantity, location and preparation time. Registered NGOs create their verified profiles, that contains organistaional details, registration information, food, location and receiving capacity.
 
 ## How it works
+
+The working of FOODRESQ can be described as step-by-step processes:
+
+-**1: NGO Registration**
+* An NGO have to create their account by providing the needed information. The submitted NGO have to go through a verification.
+-**2. Surplus Food Reporting**
+* A food donor have to report available surplus food by entering information like food type, quantity, food category and location.
