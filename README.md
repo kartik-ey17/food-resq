@@ -90,13 +90,13 @@ We can record and provide detailed statistics of:
 - NGO Participated
 - Donor Restaurant Participated
 
-## Team Details
-
-The FoodResQ Platform is designed and developed to serve community.
-
 ## Link to access
 
 [FoodResQ](https://foodresq-xi.vercel.app/)
+
+## Team Details
+
+The FoodResQ Platform is designed and developed to serve community.
 
 ### The following is a list of team members:
 
