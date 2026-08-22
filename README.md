@@ -95,7 +95,13 @@ The FOODRESQ Platform is designed and developed to serve community.
 
 ## Our Vision
 
-We have designed FOODRESQ Platform in order to create a simple bridge between surplus food and people who need it.
+We have designed FOODRESQ Platform in order to create a **simple bridge** between surplus food and people who need it.
+
+Instead of wasting **safe surplus food**, we want to make it easier to **Report, Match and Redristibute** and feed the needy ones.
+
+**Our Motto is:**
+
+        Share Food, Serve Humanity, Share Hope!
 
 
 
