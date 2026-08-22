@@ -33,13 +33,11 @@ The working of FOODRESQ can be described as step-by-step processes:
 
 The main features of our FOODRESQ Platform includes the following items:
 
-*Surplus Food Reporting 
+- Surplus Food Reporting 
+- Nearby Availability
+- NGO Registration
+- NGO Verification
+- Login Security
 
-*Nearby Availability
 
-*NGO Registration
-
-*NGO Verification
-
-*Login Security
 
