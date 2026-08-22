@@ -94,6 +94,10 @@ We can record and provide detailed statistics of:
 
 The FoodResQ Platform is designed and developed to serve community.
 
+## Link to access
+
+[FoodResQ](https://foodresq-xi.vercel.app/)
+
 ### The following is a list of team members:
 
 | **Name** | **Registration Number** |
