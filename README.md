@@ -23,8 +23,19 @@ Food donors report their surplus food by entering food type, quantity, location 
 
 The working of FOODRESQ can be described as step-by-step processes:
 
-**1: NGO Registration**
+**1. NGO Registration**
 * An NGO have to create their account by providing the needed information. The submitted NGO have to go through a verification.
   
 **2. Surplus Food Reporting**
 * A food donor have to report available surplus food by entering information like food type, quantity, food category and location.
+
+## Main Features
+
+The main features of our FOODRESQ Platform includes the following items:
+
+-Surplus Food Reporting 
+-Nearby Availability
+-NGO Registration
+-NGO Verification
+-Login Security
+
