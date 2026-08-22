@@ -51,11 +51,13 @@ FOODRESQ Platform is implemented using the following technologies:
 
 The current FOODRESQ Platform can be expanded with several additional features:
 
-- **Real-Time Notifications**
-* SMS, email or push notifications for urgent food availability.
+**Real-Time Notifications**
 
-- **Live Map Integration**
-* Display the food providers and verified NGOs on an interactive map.
+SMS, email or push notifications for urgent food availability.
+
+**Live Map Integration**
+
+Display the food providers and verified NGOs on an interactive map.
 
 **Smart Matching**
 
