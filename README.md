@@ -52,7 +52,52 @@ FOODRESQ Platform is implemented using the following technologies:
 The current FOODRESQ Platform can be expanded with several additional features:
 
 - **Real-Time Notifications**
-*
+* SMS, email or push notifications for urgent food availability.
+
+- **Live Map Integration**
+* Display the food providers and verified NGOs on an interactive map.
+
+**Smart Matching**
+
+We can integrate Machine Learning to predict suitable recipients based on the following:
+
+- Previous Claims
+- Food Quantity
+- Distance
+- Recipient Capacity
+- Pick-up Success Rate
+
+**Mobile Application**
+
+- We can develop Android and iOS dedicated mobile applications.
+
+**Analytics Advancement**
+
+We can record and provide detailed statistics of:
+
+- Food Distributed
+- Waste Prevented
+- NGO Participated
+- Donor Restaurant Participated
+
+## Team Details
+
+The FOODRESQ Platform is designed and developed to serve community.
+
+### The following is a list of team members:
+
+
+**Name**         **Registration Number**
+|---|---|
+|Kartikey Srivastava| 25BAI11235|
+|Utkarsh| 25BAI11231|
+|Dhruv Shrivastava| 25BAI11236|
+|Atharva Kulkarni| 25BAI10584|
+
+## Our Vision
+
+We have designed FOODRESQ Platform in order to create a simple bridge between surplus food and people who needs it.
+
 
 
 
